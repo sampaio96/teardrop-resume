@@ -61,7 +61,7 @@ p {
 	font-size: 1em; /* 13 px */
 	font-weight: normal;
 	text-align: left;
-
+	line-height: 1.25em;
     margin-top: 0.4em;
 	margin-bottom: 1em;
 }
@@ -70,7 +70,7 @@ ul {
 	font-size: 1em; /* 13 px */
 	font-weight: normal;
 	text-align: left;
-
+	line-height: 1.25em;
     margin-left: 1em;
     margin-right: 1em;
     margin-top: 0.4em;
